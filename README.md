@@ -19,8 +19,8 @@ CREATE TABLE employd (
   salary NUMBER
 );
 select * from employd;
-INSERT INTO employd VALUES (1, 'Mark Antony', 'Sales', 100000);
-INSERT INTO employd VALUES (2, 'Jacky Pandian', 'Marketing', 120000);
+INSERT INTO employd VALUES (1, 'Mark ', 'Sales', 100000);
+INSERT INTO employd VALUES (2, 'Antony', 'Marketing', 120000);
 ```
 
 ### PLSQL Cursor code
